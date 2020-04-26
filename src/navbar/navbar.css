@@ -1,0 +1,28 @@
+.padding_0{
+    padding: 0px !important;
+}
+.navbar_style{
+    padding: 8px 24px !important;
+    border-bottom: 1px solid #DDD;
+}
+.logo_style{
+    padding: 0px 18px 0px 0px !important;
+    margin-right: 20px;
+    border-right: 1px solid #DDD;
+    width: 43px !important;
+}
+.heading{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+}
+.icon_parent{
+    width: 40px !important;
+}
+.icon_style{
+    color: #666;
+    font-size: 18px;
+    vertical-align: middle;
+
+}
